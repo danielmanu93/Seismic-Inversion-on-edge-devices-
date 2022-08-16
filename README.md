@@ -1,1 +1,0 @@
-# UBooth-DAC2022
