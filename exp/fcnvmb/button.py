@@ -1,3 +1,5 @@
+## User-friendly Graphical User Interface (GUI) for seismic inversion
+
 # -*- coding: utf-8 -*-
 from fileinput import filename
 from tkinter import filedialog, ttk
